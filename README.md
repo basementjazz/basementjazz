@@ -1,7 +1,7 @@
 # 
 
 <p align="center">
-[strawpage](https://getoguru.straw.page/) , [twitter](https://x.com/zackihhh)
+[1](https://en.wikipedia.org/wiki/Coriolanus_Snow)
 </p>
 
 <p align="center">
