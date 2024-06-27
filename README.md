@@ -1,7 +1,7 @@
 # 
 
 <p align="center">
-[1](https://en.wikipedia.org/wiki/Coriolanus_Snow)
+
 </p>
 
 <p align="center">
