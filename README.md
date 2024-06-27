@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/734261035049025617/1255915029950369924/Untitled25_20240627165646.png?ex=667edd84&is=667d8c04&hm=9f300316b2129bae137c4476bdd96887b690ddfebc1ee66051de7742f790cb55&"/>
+  <img src="https://cdn.discordapp.com/attachments/734261035049025617/1255916865201508383/Untitled26_20240627170451.png?ex=667edf3a&is=667d8dba&hm=fa33f9d1d78364d8577b975527fd4532fcfbd69f9c5bc3262156c6477cc96ffb&"/>
 </p>
