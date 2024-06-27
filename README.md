@@ -1,8 +1,2 @@
 # 
-![](https://cdn.discordapp.com/attachments/734261035049025617/1253523651370942544/cooltext460622769699506.gif?ex=667a1edf&is=6678cd5f&hm=38e5f4e1d37d8d0e06d64e6f3b57e80958f9b19aeef024b69b33813fdc7834d7&)
-![](https://pbs.twimg.com/media/GQXRJ9HXQAAuSr4?format=jpg&name=900x900)
-
-![](https://pbs.twimg.com/media/GQPCutcXYAEScWw?format=jpg&name=900x900)
-![](https://media1.tenor.com/m/2HxG1M-nxWQAAAAd/ryan-gosling.gif)
-
- hi cuties
+![](https://cdn.discordapp.com/attachments/734261035049025617/1255903060903858298/0601f79d2024ff67e5829ca8cd8719bc-removebg-preview.png?ex=667ed25f&is=667d80df&hm=80daf709741ed61a0c38432b7048c35964b83811cfdaf28734e244f4797f23c6&)
