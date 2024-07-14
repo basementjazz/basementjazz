@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
- [wip](https://getoguru.straw.page/)
+ updating stufff
 </p>
 
 <p align="center">
