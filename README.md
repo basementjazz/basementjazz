@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
- updating stufff
+<img src="https://ibb.co/zHB53y5" alt="Paris" class="center">
 </p>
 
 <p align="center">
