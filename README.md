@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-[strawpage](https://getoguru.straw.page/)
+<a href="https://getoguru.straw.page/">strawpage</a>
 </p>
