@@ -1,8 +1,9 @@
 # 
 
 <p align="center">
-my greatest desire, is to save Mika. 🍋‍🟩
+my greatest desire is to save mika
 </p>
+
 
 <p align="center">
 <img src="https://i.imgur.com/fjElQ58.png" alt="" class="center">
