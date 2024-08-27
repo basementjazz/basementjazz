@@ -1,7 +1,7 @@
 # 
 
 <p align="center">
-<a href="https://retrospring.net/@pregnantgeto">retrospring</a>
+<a href="https://retrospring.net/@pregnantgeto">retrospring</a> & <a href="https://guns.lol/sukunagod">guns.lol</a>
 </p>
 
 
