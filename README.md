@@ -16,5 +16,8 @@
 </p>
 
 <p align="center">
-<a href="https://getoguru.straw.page/">strawpage</a> & <a href="https://sukugos.straw.page/">alt strawpage</a> <img src="https://i.imgur.com/UZm6m1M.png" alt="" class="center">
+<a href="https://getoguru.straw.page/">strawpage</a> & <a href="https://sukugos.straw.page/">alt strawpage</a> 
 </p>
+
+<p align="center">
+<img src="https://i.imgur.com/UZm6m1M.png" alt="" class="center">
