@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<img src="https://i.imgur.com/VvkUkVO.png" alt="" class="center">
+<img src="https://i.imgur.com/kAc94zo.png" alt="" class="center">
 
 </p>
 
@@ -19,5 +19,4 @@
 <a href="https://getoguru.straw.page/">strawpage</a> & <a href="https://sukugos.straw.page/">alt strawpage</a> 
 </p>
 
-<p align="center">
-<img src="https://i.imgur.com/UZm6m1M.png" alt="" class="center">
+
