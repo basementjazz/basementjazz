@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<a href="https://retrospring.net/@pregnantgeto">retrospring</a> & <a href="https://guns.lol/sukunagod">guns.lol</a>
+<a href="https://retrospring.net/@pregnantgeto">retrospring</a>  <a href="https://guns.lol/sukunagod">guns.lol</a>
 </p>
 
 
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<a href="https://getoguru.straw.page/">strawpage</a> & <a href="https://sukugos.straw.page/">alt strawpage</a> 
+<a href="https://homesicks.straw.page/">strawpage</a>  <a href="https://getoguru.straw.page/">alt strawpage</a> 
 </p>
 
 <p align="center">
