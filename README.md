@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://64.media.tumblr.com/9d7740953ffbc1a4074672292e206c00/6462efdbc4a84a8b-5f/s500x750/e38b7386d0dd69d5604320f45169c13747cc1769.pnj" alt="" class="center">
+<img src="https://wilardo.crd.co/assets/images/gallery05/4e83b748.gif?v=d19c95ca" alt="" class="center">
 
 
 <p align="center">
@@ -20,5 +20,5 @@
 </p>
 
 <p align="center">
-<img src="https://64.media.tumblr.com/9d7740953ffbc1a4074672292e206c00/6462efdbc4a84a8b-5f/s500x750/e38b7386d0dd69d5604320f45169c13747cc1769.pnj" alt="" class="center">
+
 
