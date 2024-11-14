@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<a href="https://geto.atabook.org/?page=1">atabook</a> & <a href="https://guns.lol/sukunagod">guns.lol</a>
+★ <a href="https://geto.atabook.org/?page=1"> atabook</a> & <a href="https://guns.lol/sukunagod">guns.lol</a>
 </p>
 
 
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<a href="https://homesicks.straw.page/">strawpage</a> & <a href="https://getoguru.straw.page/">alt strawpage</a> 
+<a href="https://homesicks.straw.page/">strawpage</a> & <a href="https://getoguru.straw.page/">alt strawpage</a> ★
 </p>
 
 <p align="center">
