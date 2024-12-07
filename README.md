@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<img src="https://i.imgur.com/C5LQfLi.png" alt="" class="center">
+<img src="https://cdn.discordapp.com/attachments/734261035049025617/1314756308817149962/rsz_609797675d8a18acf29a564ced384cea-removebg-preview.png?ex=6754edbb&is=67539c3b&hm=df8600848677aefebc5e4e704e4767351a137b887799937891cc3d3864777e18&" alt="" class="center">
 
 </p>
 
