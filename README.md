@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://64.media.tumblr.com/852aedc279c4e5be323cc5405a29ac2d/c3cdfcef234a22e8-c4/s540x810/8179f37168de9607aaea8760e4fcf9ac37ee8b02.pnj" alt="" class="center">
+<img src="https://gifcity.carrd.co/assets/images/gallery43/821dff9c.png?v=d7271437" alt="" class="center">
 
 
 <p align="center">
