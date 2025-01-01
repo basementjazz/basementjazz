@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://gifcity.carrd.co/assets/images/gallery43/821dff9c.png?v=d7271437" alt="" class="center">
+<img src="https://64.media.tumblr.com/76ba01d52838a54f068bc71d425e8480/c42d2528a160ba69-ca/s540x810/fa5e12b348bdd769c1e72e4b05afcee8f4ecbbcf.pnj" alt="" class="center">
 
 
 <p align="center">
@@ -22,4 +22,4 @@
 <p align="center">
 
 <p align="center">
-<img src="https://gifcity.carrd.co/assets/images/gallery43/0be9d617.gif?v=d7271437" alt="" class="center">
+<img src="https://64.media.tumblr.com/1cd1fff0514a572024f13a3b5a6a5f94/c42d2528a160ba69-ec/s540x810/0131b3c581a65714203ea165b750b10949bc17a0.pnj" alt="" class="center">
