@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://64.media.tumblr.com/76ba01d52838a54f068bc71d425e8480/c42d2528a160ba69-ca/s540x810/fa5e12b348bdd769c1e72e4b05afcee8f4ecbbcf.pnj" alt="" class="center">
+<img src="https://64.media.tumblr.com/b2d56a76fa8fb596cc2609fef2ebd597/e0ef561e9ec3e6c9-02/s540x810/b38f36f71d7b3b92d0bb56de2ec1572472153b9b.pnj" alt="" class="center">
 
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<img src="https://i.imgur.com/TOr6A0s.png" alt="" class="center">
+<img src="https://i.imgur.com/tz5MqIv.png" alt="" class="center">
 
 </p>
 
@@ -22,4 +22,4 @@
 <p align="center">
 
 <p align="center">
-<img src="https://64.media.tumblr.com/1cd1fff0514a572024f13a3b5a6a5f94/c42d2528a160ba69-ec/s540x810/0131b3c581a65714203ea165b750b10949bc17a0.pnj" alt="" class="center">
+<img src="https://64.media.tumblr.com/dc8cbcd5dc0ecf8df652defac331fa17/e0ef561e9ec3e6c9-23/s540x810/2b612ea568974d247e5e5994d00e1878af0cca25.pnj" alt="" class="center">
