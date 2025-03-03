@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<a href="https://splittingfool.straw.page">strawpage</a> & <a href="https://getoguru.straw.page/">alt strawpage</a> ★ <img src="https://pixels.crd.co/assets/images/gallery72/902eb213.gif?v=99d3974e"
+<a href="https://rentry.co/crid">rentry</a> & <a href="https://getoguru.straw.page/">strawpage</a> ★ <img src="https://pixels.crd.co/assets/images/gallery72/902eb213.gif?v=99d3974e"
 </p>
 
 <p align="center">
