@@ -12,7 +12,7 @@
 
 <p align="center">
 
-<img src="https://i.imgur.com/w2sVsXb.png">
+<img src="https://i.imgur.com/GogNGPO.png">
 
 </p>
 
