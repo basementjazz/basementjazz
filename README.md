@@ -9,7 +9,10 @@
 </p>
 </p>
 
-
+<div align="center"> 
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=g3ovs4skf0nbjusutiff4t0hk&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=d12c1a&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31tzkhecwahaordzn6n25me5hfmi&redirect=true)
+</div>
 <p align="center">
 
 <img src="https://i.imgur.com/GogNGPO.png">
