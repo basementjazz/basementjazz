@@ -15,7 +15,7 @@
 </div>
 <p align="center">
 
-<img src="https://i.imgur.com/GogNGPO.png">
+<img src="https://i.postimg.cc/Jhf5Xf1y/image-2025-03-22-171938271.png">
 
 </p>
 
