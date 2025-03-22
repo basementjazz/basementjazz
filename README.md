@@ -12,7 +12,7 @@
 
 <p align="center">
 
-<p align="center"> <img src="https://i.imgur.com/05qZ666.png" width=250> </p> 
+<p align="center"> <img src="https://i.imgur.com/05qZ666.png" width=450> </p> 
 
 
 <div align="center"> 
