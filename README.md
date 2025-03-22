@@ -9,19 +9,24 @@
 </p>
 </p>
 
+
+<p align="center">
+
+<p align="center"> <img src="https://i.postimg.cc/Jhf5Xf1y/image-2025-03-22-171938271.png" width=250> </p> 
+
+
 <div align="center"> 
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=g3ovs4skf0nbjusutiff4t0hk&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=86a951&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
-<p align="center">
-
-<p align="center"> <img src="https://i.postimg.cc/Jhf5Xf1y/image-2025-03-22-171938271.png" width=250> </p> 
 
 </p>
 
 <p align="center">
 <a href="https://rentry.co/crid">rentry</a> & <a href="https://getoguru.straw.page/">strawpage</a> ★ <img src="https://pixels.crd.co/assets/images/gallery72/902eb213.gif?v=99d3974e"
 </p>
+
+
 
 <p align="center">
 
