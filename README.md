@@ -12,7 +12,8 @@
 
 <p align="center">
 
-<p align="center"> <img src="https://i.imgur.com/05qZ666.png" width=450> </p> 
+<p align="center"> <img src="![image](https://github.com/user-attachments/assets/25594ab6-4a2e-4281-8a7a-081a14670dba)
+" width=450> </p> 
 
 
 <div align="center"> 
