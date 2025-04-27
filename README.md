@@ -5,7 +5,7 @@
 
 
 <p align="center">
- <img src="https://pixels.crd.co/assets/images/gallery08/7043f9fc.gif?v=99d3974e">   <a href="https://geto.atabook.org/?page=1">atabook</a> & <a href="https://guns.lol/starlord"> guns.lol </a> 
+ <img src="https://pixels.crd.co/assets/images/gallery30/1789353a.gif?v=99d3974e">   <a href="https://geto.atabook.org/?page=1">atabook</a> & <a href="https://guns.lol/starlord"> guns.lol </a> 
 </p>
 </p>
 
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-<a href="https://rentry.co/crid">rentry</a> & <a href="https://getoguru.straw.page/">strawpage</a>  <img src="https://pixels.crd.co/assets/images/gallery21/94808142.gif?v=99d3974e"
+<a href="https://rentry.co/crid">rentry</a> & <a href="https://getoguru.straw.page/">strawpage</a>  <img src="https://pixels.crd.co/assets/images/gallery14/d564ef96.gif?v=99d3974e"
 </p>
 
 
