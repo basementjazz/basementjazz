@@ -16,7 +16,7 @@ horses and single player games
 </p>
 
 <p align="center">
-<a href="https://boxd.it/8m8XR">letterboxd</a> & <a href="https://getoguru.straw.page/">strawpage</a>  <img src="https://pixels.crd.co/assets/images/gallery03/3527701e.png?v=99d3974e"
+<a href="https://listography.com/8723621457">listography</a> & <a href="https://getoguru.straw.page/">strawpage</a>  <img src="https://pixels.crd.co/assets/images/gallery03/3527701e.png?v=99d3974e"
 </p>
 <p align="center"> 
  
