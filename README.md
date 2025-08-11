@@ -8,7 +8,7 @@ horses and star wars lit
 
 <p align="center">
 
-<p align="center"> <img src="https://i.imgur.com/d6bFPCY.png">
+<p align="center"> <img src="https://i.imgur.com/61qhzln.png">
 
 
 <div align="center"> 
