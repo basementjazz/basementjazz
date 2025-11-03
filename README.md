@@ -1,14 +1,14 @@
 <p align="center">
-horses and star wars lit
+horses and iwtv lit
  <p align="center">
- <img src="https://pixels.crd.co/assets/images/gallery62/eeba6c98.gif?v=29416114">   <a href="https://geto.atabook.org/?page=1">atabook</a> & <a href="https://guns.lol/starlord"> guns.lol </a> 
+ <img src="https://pixels.crd.co/assets/images/gallery19/508ab22c.gif?v=29416114">   <a href="https://geto.atabook.org/?page=1">atabook</a> & <a href="https://guns.lol/starlord"> guns.lol </a> 
 </p>
 </p>
 
 
 <p align="center">
 
-<p align="center"> <img src="https://i.imgur.com/zpdQQ2f.png">
+<p align="center"> <img src="https://i.imgur.com/rzUdrGf.png">
 
 
 <div align="center"> 
@@ -19,7 +19,7 @@ horses and star wars lit
 
 
 <p align="center">
-<a href="https://rentry.co/deathstar">rentry</a> & <a href="https://listography.com/8723621457">listography</a>  <img src="https://pixels.crd.co/assets/images/gallery37/604eda65.png?v=29416114"
+<a href="https://rentry.co/deathstar">rentry</a> & <a href="https://listography.com/8723621457">listography</a>  <img src="https://pixels.crd.co/assets/images/gallery19/5dc92014.gif?v=29416114"
 </p>
 <p align="center"> 
  
