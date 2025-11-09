@@ -8,7 +8,7 @@ horses and iwtv lit
 
 <p align="center">
 
-<p align="center"> <img src="https://i.imgur.com/rzUdrGf.png">
+<p align="center"> <img src="https://i.imgur.com/FqbTzh8.png">
 
 
 <div align="center"> 
