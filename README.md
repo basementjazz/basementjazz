@@ -1,7 +1,7 @@
 <p align="center">
 horses and iwtv lit
  <p align="center">
- <img src="https://pixels.crd.co/assets/images/gallery19/508ab22c.gif?v=29416114">   <a href="https://geto.atabook.org/?page=1">atabook</a> & <a href="https://guns.lol/starlord"> guns.lol </a> 
+ <img src="https://pixels.crd.co/assets/images/gallery19/508ab22c.gif?v=29416114">   <a href="https://geto.atabook.org/?page=1">atabook</a> & <a href="https://guns.lol/lioncourt"> guns.lol </a> 
 </p>
 </p>
 
