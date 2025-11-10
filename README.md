@@ -1,7 +1,7 @@
 <p align="center">
 horses and iwtv lit
  <p align="center">
- <img src="https://pixels.crd.co/assets/images/gallery19/508ab22c.gif?v=29416114">   <a href="https://geto.atabook.org/?page=1">atabook</a> & <a href="https://guns.lol/lioncourt"> guns.lol </a> 
+ <img src="https://pixels.crd.co/assets/images/gallery42/12a2de0a.gif?v=29416114">   <a href="https://geto.atabook.org/?page=1">atabook</a> & <a href="https://guns.lol/lioncourt"> guns.lol </a> 
 </p>
 </p>
 
@@ -19,7 +19,7 @@ horses and iwtv lit
 
 
 <p align="center">
-<a href="https://rentry.co/deathstar">rentry</a> & <a href="https://listography.com/8723621457">listography</a>  <img src="https://pixels.crd.co/assets/images/gallery19/5dc92014.gif?v=29416114"
+<a href="https://rentry.co/deathstar">rentry</a> & <a href="https://listography.com/8723621457">listography</a>  <img src="https://pixels.crd.co/assets/images/gallery18/37e27c36.gif?v=29416114"
 </p>
 <p align="center"> 
  
