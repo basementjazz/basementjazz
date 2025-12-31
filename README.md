@@ -1,33 +1,9 @@
-<p align="center">
-
-<p align="center">
-anti censorship & anti harassment
- <p align="center">
- <p align="center">  
- <img src="https://pixels.crd.co/assets/images/gallery42/12a2de0a.gif?v=29416114">   <a href="https://geto.atabook.org/?page=1">atabook</a> & <a href="https://guns.lol/lioncourt"> guns.lol </a> 
-</p>
-</p>
-
-
-<p align="center">
-
-<p align="center"> <img src="https://i.imgur.com/xfiEMUc.png">
-
-
-<div align="center"> 
-
-</p>
 
 
 
 
-<p align="center">
-<a href="https://rentry.co/deathstar">rentry</a> & <a href="https://listography.com/8723621457">listography</a>  <img src="https://pixels.crd.co/assets/images/gallery18/37e27c36.gif?v=29416114"
-</p>
-<p align="center"> 
- 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=g3ovs4skf0nbjusutiff4t0hk&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=3cd7e2&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</div>
 
 
-<p align="center">
+https://github.com/user-attachments/assets/546b8c04-7ea1-4f9d-aa79-1a2a08e8536c
+
+
